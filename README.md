@@ -1,3 +1,20 @@
+## Information
+
+this is project of React, version 16.6.3. Made from 2 videos in youtube from Hamza Mirza
+
+Basic application to understand different aspects from React.
+
+These are the link of the videos
+https://www.youtube.com/watch?v=204C9yNeOYI
+https://www.youtube.com/watch?v=P0vsGO4svUM
+
+
+Download and run this command to install the packages: `npm install`
+
+Run this command to launch the application  `npm start`
+
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
